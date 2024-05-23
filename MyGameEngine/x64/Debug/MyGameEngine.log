@@ -1,0 +1,24 @@
+﻿  MyMenuSubsystem.cpp
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(43,9): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(44,9): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(49,9): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(50,9): warning C4244: '-=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(97,21): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(97,21): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(97,24): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(97,24): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(97,27): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(97,27): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(97,30): warning C4838: conversion from 'const float' to 'int' requires a narrowing conversion
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(97,30): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(115,21): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(115,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(115,24): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(115,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(115,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(115,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(115,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\GameMath.h(115,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\MyMenuSubsystem.cpp(114,6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\MyMenuSubsystem.cpp(114,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  MyGameEngine.vcxproj -> C:\Users\emily\OneDrive\Documents\- CI517_Assessment\MyGameEngine\x64\Debug\MyGameEngine.exe
